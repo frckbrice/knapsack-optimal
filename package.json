@@ -1,0 +1,10 @@
+{
+  "name": "my-cool-package",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+
+  "scripts": {
+    "test": "standard && node my-tests.js"
+  }
+}
